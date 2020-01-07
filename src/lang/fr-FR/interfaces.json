@@ -493,7 +493,7 @@
       "deleted": "Deleted"
     },
     "tags": {
-      "tags": "Tags",
+      "tags": "Étiquettes",
       "alphabetize": "Alphabetize tags",
       "alphabetize_comment": "Will rearrange tags to be alphabetical",
       "lowercase": "Force Lowercase",
@@ -596,7 +596,7 @@
       "placeholder_comment": "Add a placeholder"
     },
     "owner": {
-      "owner": "Owner",
+      "owner": "Propriétaire",
       "avatar": "Avatar",
       "name": "Nom",
       "template": "Modèle",
