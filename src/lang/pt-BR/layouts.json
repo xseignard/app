@@ -11,7 +11,7 @@
       "datetime": "Datetime",
       "time": "Time",
       "title": "Título",
-      "color": "Color"
+      "color": "Cor"
     },
     "cards": {
       "cards": "Cards",
@@ -35,7 +35,7 @@
       "date": "Date",
       "content": "Content",
       "title": "Título",
-      "color": "Color"
+      "color": "Cor"
     }
   }
 }
