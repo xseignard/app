@@ -8,7 +8,7 @@
       "moreEvents": "and {amount} more...",
       "noEvents": "aucun événement pour le moment !",
       "date": "Date",
-      "datetime": "Datetime",
+      "datetime": "Date / Heure",
       "time": "Time",
       "title": "Titre",
       "color": "Couleur"
