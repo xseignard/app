@@ -323,7 +323,7 @@
       "map_lat_comment": "Map will be centered at this latitude",
       "map_lng": "Default Longitude",
       "map_lng_comment": "Map will be centered at this longitude",
-      "height": "Height",
+      "height": "Altura",
       "default_zoom": "Default Zoom",
       "default_zoom_comment": "Default zoom level of the map",
       "max_zoom": "Max Zoom",
@@ -588,7 +588,7 @@
     },
     "user": {
       "user": "User",
-      "avatar": "Avatar",
+      "avatar": "Imagem de Perfil",
       "name": "Nome",
       "template": "Template",
       "template_comment": "How to format the users in the dropdown",
@@ -596,8 +596,8 @@
       "placeholder_comment": "Add a placeholder"
     },
     "owner": {
-      "owner": "Owner",
-      "avatar": "Avatar",
+      "owner": "Proprietário",
+      "avatar": "Imagem de Perfil",
       "name": "Nome",
       "template": "Template",
       "template_comment": "How to display the user on the item detail page",
@@ -615,7 +615,7 @@
     },
     "user-updated": {
       "user_updated": "User Updated",
-      "avatar": "Avatar",
+      "avatar": "Imagem de Perfil",
       "name": "Nome",
       "template": "Template",
       "template_comment": "How to display the user on the item detail page",
