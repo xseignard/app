@@ -66,15 +66,15 @@
       "lineNumber": "Número da Linha",
       "lineNumber_comment": "Exibir número das linhas",
       "loc": "Nenhuma linha de {lang} | Uma linha de {lang} | {count} linhas de {lang}",
-      "fill_template": "Fill with Template"
+      "fill_template": "Preencher com Template"
     },
     "collections": {
       "collections": "Coleções",
       "placeholder": "Placeholder",
-      "placeholder_comment": "Static text that shown before a value is selected",
-      "placeholder_default": "Choose a collection...",
+      "placeholder_comment": "Texto estático que é mostrado antes de um valor ser selecionado",
+      "placeholder_default": "Escolha uma coleção...",
       "option": "Opção",
-      "include_system": "Include System",
+      "include_system": "Incluir Sistema",
       "include_system_comment": "Include system collections in the options"
     },
     "color": {
@@ -159,7 +159,7 @@
       "choices": "Escolhas",
       "choices_comment": "Digite os pares de valor da chave JSON com o valor salvo e o texto exibido.",
       "placeholder": "Placeholder",
-      "placeholder_comment": "Static text that shown before a value is selected",
+      "placeholder_comment": "Texto estático que é mostrado antes de um valor ser selecionado",
       "option": "Opção",
       "formatting": "Mostrar o texto de exibição",
       "formatting_comment": "Renderizar os valores como valores de exibição",
@@ -254,7 +254,7 @@
     "interfaces": {
       "interfaces": "Interfaces",
       "placeholder": "Placeholder",
-      "placeholder_comment": "Static text that shown before a value is selected",
+      "placeholder_comment": "Texto estático que é mostrado antes de um valor ser selecionado",
       "placeholder_default": "Choose an interface",
       "option": "Opção",
       "relational": "Include relational interfaces",
