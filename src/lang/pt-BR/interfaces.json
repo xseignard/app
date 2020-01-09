@@ -75,12 +75,12 @@
       "placeholder_default": "Escolha uma coleção...",
       "option": "Opção",
       "include_system": "Incluir Sistema",
-      "include_system_comment": "Include system collections in the options"
+      "include_system_comment": "Incluir coleções do sistema nas opções"
     },
     "color": {
-      "color": "Color",
-      "format": "Output Format",
-      "format_comment": "In what data format to save the value",
+      "color": "Cor",
+      "format": "Formato de Saída",
+      "format_comment": "Em qual formato de data para salvar o valor",
       "palette": "Palette",
       "palette_comment": "Add color options as hex values",
       "palette_only": "Palette Only",
