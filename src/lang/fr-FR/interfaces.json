@@ -441,42 +441,42 @@
       "display_comment": "Comment afficher les valeurs de notation"
     },
     "repeater": {
-      "repeater": "Repeater",
+      "repeater": "Répéteur",
       "template": "Modèle d'affichage",
-      "template_comment": "How to format value on the item browse display and inline preview",
+      "template_comment": "Comment formater la valeur sur l'affichage de la barre de navigation et l'aperçu en ligne",
       "template_placeholder": "{{title}} — ({{author}})",
       "fields": "Champs",
-      "fields_comment": "What fields to show in each repeated row",
-      "limit": "Limit",
-      "limit_comment": "Maximum amount of rows the user can add",
+      "fields_comment": "Les champs à afficher dans chaque ligne répétée",
+      "limit": "Limiter",
+      "limit_comment": "Nombre maximum de lignes que l'utilisateur peut ajouter",
       "structure": "Structure",
-      "structure_comment": "Whether to save the JSON as an array of objects or single object with unique keys",
-      "structure_key": "Structure Key Field",
-      "structure_key_comment": "When using an object for the JSON structure, this value controls what field to use for the key values",
+      "structure_comment": "Enregistrer le JSON en tant que tableau d'objets ou d'objet unique avec des clés uniques",
+      "structure_key": "Structurer le champ clé",
+      "structure_key_comment": "Lors de l'utilisation d'un objet pour la structure JSON, cette valeur contrôle quel champ utiliser pour les valeurs clés",
       "placeholder": "Indication",
-      "placeholder_comment": "The value that shows up instead of the template if there's no value entered yet",
-      "create_item_text": "Create Item Text",
-      "create_item_text_comment": "Text that's displayed in the button that adds a new row to the repeater"
+      "placeholder_comment": "La valeur qui apparaît à la place du modèle s'il n'y a pas encore de valeur saisie",
+      "create_item_text": "Créer un élément texte",
+      "create_item_text_comment": "Texte affiché dans le bouton qui ajoute une nouvelle ligne au répéteur"
     },
     "slider": {
       "slider": "Slider",
       "min": "Minimum",
-      "min_comment": "The minimum valid value",
+      "min_comment": "La valeur minimale valide",
       "max": "Maximum",
-      "max_comment": "The maximum valid value",
-      "step": "Step",
-      "step_comment": "Increments at which the value can be set",
-      "unit": "Unit",
-      "unit_comment": "Show an unit next to the slider value, e.g. 15 Pounds"
+      "max_comment": "La valeur minimale valide",
+      "step": "Étape",
+      "step_comment": "Incréments à partir desquels la valeur peut être définie",
+      "unit": "Unité",
+      "unit_comment": "Afficher une unité à côté de la valeur du slider, par exemple 15 livres"
     },
     "slug": {
       "slug": "Slug",
       "placeholder_name": "Indication",
-      "placeholder_comment": "The placeholder text to show",
-      "force_lowercase": "Force Lowercase",
-      "force_lowercase_comment": "Makes sure the slug is in lowercase",
-      "mirrored_field": "Mirrored Field",
-      "mirrored_field_comment": "Keep the slug up to date with another (text) field"
+      "placeholder_comment": "Le texte de l'espace réservé à afficher",
+      "force_lowercase": "Forcer l'utilisation des minuscules",
+      "force_lowercase_comment": "S'assurer que le slug est en minuscule",
+      "mirrored_field": "Champ miroir",
+      "mirrored_field_comment": "Garder le slug à jour avec un autre champ (texte)"
     },
     "sort": {
       "sort": "Triage"
@@ -496,7 +496,7 @@
       "tags": "Étiquettes",
       "alphabetize": "Alphabetize tags",
       "alphabetize_comment": "Will rearrange tags to be alphabetical",
-      "lowercase": "Force Lowercase",
+      "lowercase": "Forcer l'utilisation des minuscules",
       "lowercase_comment": "Convert all tags to lowercase",
       "wrap": "Wrap with delimiter",
       "wrap_comment": "Envelopper les valeurs avec une paire de délimiteurs pour permettre une recherche stricte d'une seule valeur",
@@ -625,10 +625,10 @@
       "unknown": "Inconnu"
     },
     "wysiwyg": {
-      "toolbar": "Toolbar Options",
-      "toolbar_comment": "Show, hide, and reorder toolbar options",
-      "custom_formats": "Custom Formats",
-      "custom_formats_comment": "Custom HTML wrappers for content"
+      "toolbar": "Options de la barre d'outils",
+      "toolbar_comment": "Afficher, masquer et réorganiser les options de la barre d'outils",
+      "custom_formats": "Format personnalisé",
+      "custom_formats_comment": "Enveloppeurs HTML personnalisés pour le contenu"
     }
   }
 }
