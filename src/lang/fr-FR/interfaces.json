@@ -123,26 +123,26 @@
       "default_to_current_datetime": "Date/Heure courante ajustée",
       "default_to_current_datetime_comment": "Définit la valeur par défaut à la date actuelle",
       "format": "Format",
-      "format_comment": "The DateTime format to use for the input"
+      "format_comment": "Le format Date / Heure à utiliser pour l'entrée"
     },
     "datetime-created": {
-      "datetime_created": "Datetime Created",
+      "datetime_created": "Date de création",
       "relative": "Afficher des dates relatives",
       "relative_comment": "Afficher le temps relativement (par exemple il y a 50 minutes)",
-      "now": "You are creating this now",
-      "unknown": "Unknown"
+      "now": "Vous êtes en train de créer ceci",
+      "unknown": "Inconnu"
     },
     "datetime-updated": {
-      "datetime_updated": "Datetime Updated",
+      "datetime_updated": "Date de mise à jour",
       "relative": "Afficher des dates relatives",
       "relative_comment": "Afficher le temps relativement (par exemple il y a 50 minutes)",
-      "now": "You are creating this now",
-      "unknown": "Unknown"
+      "now": "Vous êtes en train de créer ceci",
+      "unknown": "Inconnu"
     },
     "divider": {
-      "divider": "Divider",
-      "style-name": "Divider style",
-      "style-comment": "Change the style of the Divider",
+      "divider": "Séparateur",
+      "style-name": "Style de séparation",
+      "style-comment": "Changer le style du séparateur",
       "weight-name": "Épaisseur de la ligne",
       "weight-comment": "Changer l'épaisseur de la ligne",
       "input-name": "Texte du séparateur",
@@ -321,82 +321,82 @@
       "value": "Valeur",
       "map_lat": "Default Latitude",
       "map_lat_comment": "Map will be centered at this latitude",
-      "map_lng": "Default Longitude",
-      "map_lng_comment": "Map will be centered at this longitude",
+      "map_lng": "Longitude par défaut",
+      "map_lng_comment": "La carte sera centrée sur cette longitude",
       "height": "Hauteur",
       "default_zoom": "Zoom par défaut",
-      "default_zoom_comment": "Default zoom level of the map",
-      "max_zoom": "Max Zoom",
-      "max_zoom_comment": "Maximum zoom allowed in the map",
-      "no_location": "No location found",
-      "user_location_error_blocked": "You've disabled the location access. Kindly enable it from the browser addressbar to auto detect your location.",
-      "user_location_error": "There was an error while trying to get your location. Please try again.",
-      "address_to_code": "Address Input",
-      "address_to_code_comment": "Add an input field to automatically get the geocodes from an address. Uses <a href=\"https://wiki.openstreetmap.org/wiki/Nominatim\">Nominatim</a>. Please check their usage policy.",
-      "address_to_code_error": "No geocode found for this address",
-      "clear_location": "Clear Location",
-      "my_location": "Set My Location",
-      "address_location": "Set Address Location"
+      "default_zoom_comment": "Niveau de zoom par défaut de la carte",
+      "max_zoom": "Zoom maximum",
+      "max_zoom_comment": "Zoom maximum autorisé sur la carte",
+      "no_location": "Aucune localisation trouvée",
+      "user_location_error_blocked": "Vous avez désactivé l'accès à la localisation. Veuillez l'activer dans la barre d'adresse du navigateur pour détecter automatiquement votre position.",
+      "user_location_error": "Une erreur s'est produite lors de la tentative de localisation. Veuillez réessayer.",
+      "address_to_code": "Entrée d'adresse",
+      "address_to_code_comment": "Ajouter un champ de saisie pour obtenir automatiquement les géocodes d'une adresse. Utilise <a href=\"https://wiki.openstreetmap.org/wiki/Nominatim\">Nominatim</a>. Veuillez vérifier leur politique d'utilisation.",
+      "address_to_code_error": "Aucun géocode trouvé pour cette adresse",
+      "clear_location": "Effacer la localisation",
+      "my_location": "Définir mon emplacement",
+      "address_location": "Définir l'emplacement de l'adresse"
     },
     "markdown": {
       "markdown": "Markdown",
       "edit": "Modifier",
       "preview": "Aperçu",
-      "tabbed_preview": "Tabbed Preview",
-      "tabbed_preview_comment": "How to display the editor and preview",
-      "tabbed_preview_on": "Tabbed Preview",
-      "tabbed_preview_off": "Side-by-side Preview",
-      "rows": "Rows",
-      "rows_comment": "The starting number of text rows available",
+      "tabbed_preview": "Aperçu des onglets",
+      "tabbed_preview_comment": "Comment afficher l'éditeur et l'aperçu",
+      "tabbed_preview_on": "Aperçu des onglets",
+      "tabbed_preview_off": "Aperçu côte à côte",
+      "rows": "Lignes",
+      "rows_comment": "Le nombre de lignes de texte de départ disponibles",
       "placeholder": "Indication",
       "placeholder_comment": "Enter placeholder text"
     },
     "multiselect": {
-      "multiselect": "Multi-Select",
+      "multiselect": "Sélection multiple",
       "choices": "Choix",
-      "choices_comment": "Enter JSON key value pairs with the saved value and displayed text",
+      "choices_comment": "Entrez les paires de valeur de la clé JSON avec la valeur enregistrée et le texte affiché",
       "placeholder": "Indication",
       "placeholder_comment": "Enter placeholder text",
       "size": "Size",
-      "size_comment": "Number of options visible before scrolling",
+      "size_comment": "Nombre d'options visibles avant défilement",
       "option": "Option",
       "wrap": "Envelopper avec délimiteur",
-      "wrap_comment": "Wrap the values with a pair of delimiters to allow strict searching for a single value",
-      "format": "Browse Format",
-      "format_comment": "The output format on the Browse Items page"
+      "wrap_comment": "Envelopper les valeurs avec une paire de délimiteurs pour permettre une recherche stricte d'une seule valeur",
+      "format": "Parcourir les formats",
+      "format_comment": "Le format de sortie de la page Parcourir les éléments"
     },
     "numeric": {
       "numeric": "Numérique",
       "placeholder": "Indication",
       "placeholder_comment": "Enter placeholder text",
       "localized": "Localisé",
-      "localized_comment": "Localize the output to the user's locale",
+      "localized_comment": "Traduire la sortie dans la langue de l'utilisateur",
       "icon_left": "Icône gauche",
       "icon_left_comment": "Choisissez une icône optionnelle à afficher à gauche du champ",
       "icon_right": "Icône droite",
       "icon_right_comment": "Choisissez une icône optionnelle à afficher à droite du champ",
       "monospace": "Monospace",
-      "monospace_comment": "Use a monospace font"
+      "monospace_comment": "Utiliser une police monospace"
     },
     "one-to-many": {
-      "o2m": "One to Many",
-      "select_items": "Select the items",
+      "o2m": "Un à plusieurs",
+      "select_items": "Sélectionnez les éléments",
       "relation_not_setup": "La relation n'a pas été configurée correctement",
       "visible_columns": "Colonnes Visibles",
       "visible_columns_comment": "Add a CSV of columns you want to display as preview",
       "preferences": "Préférences d'affichage des listes",
       "preferences_comment": "Set what options to use for the modal",
       "template": "Modèle d'affichage",
-      "template_comment": "How to format value on the item browse display",
+      "template_comment": "Comment formater la valeur sur l'affichage de la barre de navigation des éléments",
       "template_placeholder": "{{title}} — {{author}}",
       "allow_create": "Autoriser la création",
       "allow_create_comment": "Autoriser l'utilisateur à créer un nouvel élément à partir de cette interface",
       "allow_select": "Autoriser la sélection",
       "allow_select_comment": "Autoriser l'utilisateur de sélectionner un élément existant",
-      "delete_mode": "Delete mode",
-      "delete_mode_comment": "What to do when the user deselects an item",
-      "sort_field": "Sort Field",
-      "sort_field_comment": "The field to store the sort value in"
+      "delete_mode": "Mode de suppression",
+      "delete_mode_comment": "Que faire lorsque l'utilisateur désélectionne un élément",
+      "sort_field": "Trié",
+      "sort_field_comment": "Le champ dans lequel stocker la valeur de tri"
     },
     "password": {
       "password": "Mot de passe",
@@ -404,7 +404,7 @@
       "hide_comment": "Afficher des points pour les caractères saisis",
       "placeholder": "Indication",
       "placeholder_comment": "Enter placeholder text",
-      "confirm_placeholder": "Confirm password...",
+      "confirm_placeholder": "Veuillez confirmer le mot de passe ",
       "show_hash": "Show the hashed output",
       "show_hash_comment": "Display the saved hash",
       "hashing_type": "Hashing Type",
@@ -412,33 +412,33 @@
     },
     "preview": {
       "preview": "Aperçu",
-      "url_template": "URL Template",
-      "url_template_comment": "A mustache template for a URL to preview content",
-      "preview_item": "Preview this item"
+      "url_template": "Modèle d'URL",
+      "url_template_comment": "Un modèle en moustache pour une URL de prévisualisation du contenu",
+      "preview_item": "Aperçu de cet élément"
     },
     "primary-key": {
       "primary_key": "Clef primaire",
-      "immutable": "Can not be changed",
+      "immutable": "Ne peut pas être modifié",
       "monospace": "Monospace",
-      "monospace_comment": "Use a monospace font"
+      "monospace_comment": "Utiliser une police monospace"
     },
     "radio-buttons": {
-      "radio": "Radio Buttons",
+      "radio": "Boutons radio",
       "choices": "Choix",
       "choices_comment": "Entrez les paires de valeur de la clé JSON avec la valeur enregistrée et le texte affiché.",
       "option": "Option",
-      "format": "Browse Format",
-      "format_comment": "The output format on the Browse Items page"
+      "format": "Parcourir les formats",
+      "format_comment": "Le format de sortie de la page Parcourir les éléments"
     },
     "rating": {
-      "rating": "Rating",
+      "rating": "Évaluation",
       "value": "Valeur",
-      "active_color": "Active Color",
-      "active_color_comment": "Active color of selected stars",
-      "max_stars": "Max Stars",
-      "max_stars_comment": "Number of maximum rating allowed",
-      "display": "Display",
-      "display_comment": "How to display rating values"
+      "active_color": "Couleur active",
+      "active_color_comment": "Couleur active des étoiles sélectionnées",
+      "max_stars": "Maximum d'étoiles",
+      "max_stars_comment": "Nombre maximum de notes autorisées",
+      "display": "Affichage",
+      "display_comment": "Comment afficher les valeurs de notation"
     },
     "repeater": {
       "repeater": "Repeater",
@@ -499,7 +499,7 @@
       "lowercase": "Force Lowercase",
       "lowercase_comment": "Convert all tags to lowercase",
       "wrap": "Wrap with delimiter",
-      "wrap_comment": "Wrap the values with a pair of delimiters to allow strict searching for a single value",
+      "wrap_comment": "Envelopper les valeurs avec une paire de délimiteurs pour permettre une recherche stricte d'une seule valeur",
       "format": "Format Value",
       "format_comment": "Convert the tags to Title Case when displaying the value",
       "sanitize": "Sanitize",
@@ -529,7 +529,7 @@
       "format": "Pretty Output",
       "format_comment": "Convert the value to title case",
       "monospace": "Monospace",
-      "monospace_comment": "Use a monospace font",
+      "monospace_comment": "Utiliser une police monospace",
       "auto": "Automatic",
       "small": "Small",
       "medium": "Medium",
@@ -537,7 +537,7 @@
     },
     "textarea": {
       "textarea": "Text-Area",
-      "rows": "Rows",
+      "rows": "Lignes",
       "rows_comment": "The number of text rows available for the input before scrolling",
       "placeholder": "Indication",
       "placeholder_comment": "Enter placeholder text",
@@ -574,7 +574,7 @@
       "text-active-placeholder": "Enter your text here",
       "icon-active-name": "Active Icon",
       "icon-active-comment": "Choose an active icon",
-      "color-active-name": "Active Color",
+      "color-active-name": "Couleur active",
       "color-active-comment": "Choose the active color"
     },
     "translation": {
@@ -601,10 +601,10 @@
       "name": "Nom",
       "template": "Modèle",
       "template_comment": "How to display the user on the item detail page",
-      "display": "Display",
+      "display": "Affichage",
       "display_comment": "How to display the user on the item browse page",
       "you": "You will be the creator",
-      "unknown": "Unknown"
+      "unknown": "Inconnu"
     },
     "user-roles": {
       "user-roles": "User Role",
@@ -619,10 +619,10 @@
       "name": "Nom",
       "template": "Modèle",
       "template_comment": "How to display the user on the item detail page",
-      "display": "Display",
+      "display": "Affichage",
       "display_comment": "How to display the user on the item browse page",
       "you": "You will be the updater",
-      "unknown": "Unknown"
+      "unknown": "Inconnu"
     },
     "wysiwyg": {
       "toolbar": "Toolbar Options",
