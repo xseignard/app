@@ -49,23 +49,23 @@
     "checkboxes-relational": {
       "checkboxes_relational": "Caixas de Seleção Relacionais",
       "grid": "Grade",
-      "grid_comment": "Number of items to show in a row",
-      "item_template": "Item Template",
-      "item_template_comment": "How to display values on the single item layouts",
+      "grid_comment": "Número de itens a serem exibidos em uma linha",
+      "item_template": "Template de Item",
+      "item_template_comment": "Como exibir valores nos layouts de um único item",
       "item_template_placeholder": "{{name}} — {{first_name}}",
-      "listing_template": "Listing Template",
-      "listing_template_comment": "How to display values on the listing layouts.<br>You'll need to prepend the collection name",
+      "listing_template": "Listando Template",
+      "listing_template_comment": "Como exibir valores nos layouts.<br>Você precisará prefixar o nome da coleção",
       "listing_template_placeholder": "{{movie.name}} — {{member.first_name}}"
     },
     "code": {
-      "code": "Code",
+      "code": "Código",
       "template": "Template",
-      "template_comment": "Provide a template the user can use to get started with",
-      "language": "Language",
-      "language_comment": "Set the programming language to use",
-      "lineNumber": "Line Number",
-      "lineNumber_comment": "Show line numbers",
-      "loc": "No lines of {lang} | One line of {lang} | {count} lines of {lang}",
+      "template_comment": "Forneça um template que o usuário pode usar para começar",
+      "language": "Idioma",
+      "language_comment": "Definir a linguagem de programação para usar",
+      "lineNumber": "Número da Linha",
+      "lineNumber_comment": "Exibir número das linhas",
+      "loc": "Nenhuma linha de {lang} | Uma linha de {lang} | {count} linhas de {lang}",
       "fill_template": "Fill with Template"
     },
     "collections": {
@@ -262,7 +262,7 @@
     },
     "json": {
       "template": "Template",
-      "template_comment": "Provide a template the user can use to get started with"
+      "template_comment": "Forneça um template que o usuário pode usar para começar"
     },
     "key-value": {
       "key_interface": "Key Interface",
@@ -273,7 +273,7 @@
       "value_options": "Key Interface Options"
     },
     "language": {
-      "input": "Language",
+      "input": "Idioma",
       "select_language": "Select a language...",
       "limit": "Limit to Directus Availability",
       "limit_comment": "Only show languages that are available as translations in Directus"
