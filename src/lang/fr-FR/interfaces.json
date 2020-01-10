@@ -6,9 +6,9 @@
     "button-group": {
       "button_group": "Groupe de boutons",
       "choices": "Choix",
-      "choices_comment": "Entrez les paires de valeur de la clé JSON avec la valeur enregistrée et le texte affiché.",
+      "choices_comment": "Entrez les paires de valeur clé JSON avec la valeur enregistrée et le texte affiché.",
       "theme": "Thème de l'interface",
-      "theme_comment": "Définir le thème de l'interface si pris en charge",
+      "theme_comment": "Définir le thème de l'interface si cette dernière est supportée",
       "value": "Valeur",
       "flight": "Vol",
       "cruise": "Croisière",
@@ -31,7 +31,7 @@
     "checkboxes": {
       "checkboxes": "Cases à cocher",
       "choices": "Choix",
-      "choices_comment": "Entrez les paires de valeur de la clé JSON avec la valeur enregistrée et le texte affiché.",
+      "choices_comment": "Entrez les paires de valeur clé JSON avec la valeur enregistrée et le texte affiché.",
       "wrap": "Envelopper avec délimiteur",
       "wrap_comment": "Envelopper la valeur enregistrée dans un délimiteur (améliore la possibilité de recherche).",
       "formatting": "Montrer le texte",
@@ -157,7 +157,7 @@
     "dropdown": {
       "dropdown": "Liste déroulante",
       "choices": "Choix",
-      "choices_comment": "Entrez les paires de valeur de la clé JSON avec la valeur enregistrée et le texte affiché.",
+      "choices_comment": "Entrez les paires de valeur clé JSON avec la valeur enregistrée et le texte affiché.",
       "placeholder": "Indication",
       "placeholder_comment": "Texte statique s'affichant avant qu'une valeur soit sélectionnée",
       "option": "Option",
@@ -315,9 +315,9 @@
     "map": {
       "map": "Carte",
       "choices": "choix",
-      "choices_comment": "Entrez les paires de valeur de la clé JSON avec la valeur enregistrée et le texte affiché.",
+      "choices_comment": "Entrez les paires de valeur clé JSON avec la valeur enregistrée et le texte affiché.",
       "theme": "Thème de l'interface",
-      "theme_comment": "Définir le thème de l'interface si pris en charge",
+      "theme_comment": "Définir le thème de l'interface si cette dernière est supportée",
       "value": "Valeur",
       "map_lat": "Latitude par défaut",
       "map_lat_comment": "La carte sera centrée à cette latitude",
@@ -425,7 +425,7 @@
     "radio-buttons": {
       "radio": "Boutons radio",
       "choices": "Choix",
-      "choices_comment": "Entrez les paires de valeur de la clé JSON avec la valeur enregistrée et le texte affiché.",
+      "choices_comment": "Entrez les paires de valeur clé JSON avec la valeur enregistrée et le texte affiché.",
       "option": "Option",
       "format": "Parcourir les formats",
       "format_comment": "Le format de sortie de la page Parcourir les éléments"
