@@ -52,24 +52,24 @@
   "collections": {
     "directus_activity": "Aktivität",
     "directus_files": "Dateien",
-    "directus_users": "Users"
+    "directus_users": "Benutzer"
   },
   "fields": {
     "directus_activity": {
-      "action": "Action",
+      "action": "Aktion",
       "collection": "Collection",
-      "item": "Item Primary Key",
+      "item": "Item-Primärschlüssel",
       "action_by": "Action By",
       "action_on": "Action On",
       "edited_on": "Edited On",
       "comment_deleted_on": "Comment Deleted On",
-      "ip": "IP Address",
+      "ip": "IP Adresse",
       "user_agent": "User Agent",
       "comment": "Kommentar"
     },
     "directus_files": {
-      "title": "Title",
-      "tags": "Tags",
+      "title": "Titel",
+      "tags": "Stichwörter",
       "location": "Location",
       "description": "Beschreibung",
       "filename_download": "Filename Download",
@@ -93,7 +93,7 @@
       "password": "Passwort",
       "role": "Role",
       "company": "Company",
-      "title": "Title",
+      "title": "Titel",
       "timezone": "Timezone",
       "locale": "Locale",
       "avatar": "Avatar",
@@ -501,8 +501,8 @@
   "text": "Text",
   "translation": "Übersetzung",
   "translated_field_name": "Übersetzter Feldname...",
-  "not_translated_in_language": "Not Translated in {language}",
-  "this_item_is_not_available": "This item is not available.",
+  "not_translated_in_language": "Nicht in {language} übersetzt",
+  "this_item_is_not_available": "Dieses Item ist nicht verfügbar.",
   "this_collection": "Diese Sammlung",
   "to": "An",
   "turn_all_on": "Alle einschalten",
